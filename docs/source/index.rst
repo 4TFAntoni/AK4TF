@@ -67,7 +67,7 @@ Termin 2
 Obraz
 =====
 
-.. image:: obrazek.png
+.. image:: jamal.jpeg
    :alt: Alternatywny tekst dla obrazka
    :caption: Podpis pod obrazkiem
 
